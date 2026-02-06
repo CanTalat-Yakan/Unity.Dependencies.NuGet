@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.nuget",
-  "version": "1.0.0",
-  "displayName": "Unity Dependencies NuGet",
+  "name": "com.unityessentials.core.dependencies.nuget",
+  "version": "2.0.0",
+  "displayName": "Dependencies NuGet",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
